@@ -10,7 +10,7 @@
         android:strokeWidth="0" />
     <path
         android:fillAlpha="1"
-        android:fillColor="#039BE5"
+        android:fillColor="#757575"
         android:pathData="M13.005,2.01 L13,6l3.4,1.6 1.6,3.395 4,0C21.517,6.243 17.757,2.487 13.005,2.01Z"
         android:strokeWidth="0" />
 

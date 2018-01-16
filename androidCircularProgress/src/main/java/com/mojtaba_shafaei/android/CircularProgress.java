@@ -24,6 +24,10 @@ public class CircularProgress extends RelativeLayout {
   public void setProgress(@IntRange(from = 0, to = 4) int step) {
 
     switch (step) {
+      case 0:
+        imageView.setImageResource(R.drawable.ic_p0);
+        break;
+
       case 1:
         imageView.setImageResource(R.drawable.ic_p1);
         break;
